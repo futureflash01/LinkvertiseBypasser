@@ -23,7 +23,7 @@ LinkvertiseBypasser mainly bypasses Linkvertise links, but it can also bypass ma
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 # All Bypassable Links:
-* linkvertise.com
+* linkvertise.com (obviously 😏)
 * adf.ly
 * exe.io
 * exey.io
