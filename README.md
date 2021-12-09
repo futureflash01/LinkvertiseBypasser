@@ -21,7 +21,7 @@ It's based off the Bypass.vip API, which can be found at: https://api.bypass.vip
 # Instructions
 1. Paste a link in the top text box
 2. Click the "Bypass" button
-3. our bypassed link will show in the bottom text box. Feel free to click the "Copy" button to copy the bypassed link to your clipboard
+3. Your bypassed link will show in the bottom text box. Feel free to click the "Copy" button to copy the bypassed link to your clipboard
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
