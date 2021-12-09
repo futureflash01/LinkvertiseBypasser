@@ -12,7 +12,8 @@ This is my newest program, LinkvertiseBypasser
 
 # Description
 
-LinkvertiseBypasser mainly bypasses Linkvertise links, but it can also bypass many more link. You can find all the links it can bypass by scrolling to the bottom of the page 
+LinkvertiseBypasser mainly bypasses Linkvertise links, but it can also bypass many more links. You can find all the links it can bypass by scrolling to the bottom of the page 
+
 It's based off the Bypass.vip API, which can be found at: https://api.bypass.vip
 
 -------------------------------------------------------------------------------------------------------------------------------------------
